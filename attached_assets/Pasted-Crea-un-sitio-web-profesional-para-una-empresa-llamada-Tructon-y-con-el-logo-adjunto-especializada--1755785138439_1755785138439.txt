@@ -1,0 +1,55 @@
+Crea un sitio web profesional para una empresa llamada Tructon y con el logo adjunto, especializada en la fabricación de prefabricados en policoncreto con componentes en material reciclado. El sitio debe transmitir solidez, experiencia y confianza, como si fuera una empresa con años en el mercado.
+
+🔹 Pantalla de inicio (Home)
+	•	Título principal: “Soluciones en prefabricados de policoncreto para infraestructura y mobiliario urbano”
+	•	Subtítulo: “Resistencia certificada para tráfico vehicular pesado y peatonal, cumpliendo con normativas nacionales e internacionales.”
+	•	Botones de llamado a la acción visibles desde el inicio:
+	•	“Solicita una muestra gratis”
+	•	“Cotiza tu proyecto” (ambos abren un formulario de contacto).
+	•	Imagen de fondo: renders o fotos de tapas, rejillas y bancas en concreto.
+
+🔹 Sección: Productos
+
+Divide los productos en 3 categorías principales:
+	1.	Construcción e Industrial
+	•	Tapas de manhole y cámaras de inspección.
+	•	Rejillas industriales y peatonales.
+	•	Elementos para infraestructura de servicios.
+	2.	Amoblamiento Urbano
+	•	Bancas en concreto y policoncreto.
+	•	Mesas urbanas y de parques.
+	•	Separadores viales y elementos de espacio público.
+	3.	Otros Productos
+	•	Accesorios de drenaje.
+	•	Elementos decorativos resistentes.
+
+Cada producto debe tener una foto/referencia, breve descripción y botón “Solicita cotización”.
+
+🔹 Sección: Normatividad y Resistencia
+	•	Título: “Cumplimos con las exigencias del mercado”
+	•	Texto:
+	Nuestros productos en policoncreto reciclado cumplen con normativas técnicas de resistencia para tráfico vehicular y peatonal. Ofrecemos soluciones certificadas que garantizan seguridad, durabilidad y sostenibilidad, con capacidad de soportar cargas de hasta 12,5 toneladas según la norma EN 124 y sus equivalentes locales.
+	•	Incluir íconos o cuadros comparativos de ventajas: resistencia, durabilidad, sostenibilidad, seguridad.
+
+🔹 Sección: Sobre CONINGEST
+	•	Breve texto de empresa consolidada:
+	En CONINGEST diseñamos y fabricamos prefabricados en policoncreto reciclado, integrando innovación, sostenibilidad y resistencia. Nuestro compromiso es aportar a la infraestructura y el mobiliario urbano con productos de larga vida útil y desempeño certificado.
+	•	Foto o render de planta/fábrica o proyectos.
+
+🔹 Sección: Contacto
+	•	Formulario con campos: Nombre, Empresa, Correo, Teléfono, Tipo de producto de interés, Mensaje.
+	•	Botones CTA:
+	•	“Solicita una muestra gratis”
+	•	“Cotiza tu proyecto”
+	•	Incluir también botón directo a WhatsApp Business.
+
+🔹 Footer
+	•	Datos de contacto (teléfono, correo, dirección).
+	•	Enlaces a redes sociales.
+	•	Aviso de sostenibilidad: “Fabricamos con materiales reciclados para un futuro más sostenible.”
+
+🔹 Extras recomendados
+	•	Blog: artículos cortos sobre normatividad, ventajas del policoncreto, casos de éxito.
+	•	Sección de clientes o testimonios (aunque sean ficticios al inicio, puedes poner placeholders).
+	•	Descargable en PDF: “Catálogo técnico 2025” (aunque sea un mockup inicial).
+	•	Optimización SEO con palabras clave: prefabricados, policoncreto, tapas de alcantarilla, rejillas de concreto, bancas urbanas Medellín/Colombia.

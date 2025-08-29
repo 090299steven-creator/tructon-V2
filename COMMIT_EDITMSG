@@ -1,0 +1,13 @@
+Assistant checkpoint: Updated company image in about section
+
+Assistant generated file changes:
+- TructonWeb/client/src/components/about-section.tsx: Update company image to factory image
+
+---
+
+User prompt:
+
+Ahora Cambia la imagen de la sección sobre tructon,  por la imagen,  @attached_assets/Fábrica de Tapas Redondas_1756176384781.png verifica y corrige el error de la imagen para que se puede ver correctamente.
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: 113a3ea0-505d-4266-9b68-40b35aac41df
